@@ -1,0 +1,11 @@
+{
+	"pluginIDsFilter":[
+		"VerifyInputCC",
+		"VerifyOutputLocal",
+		"VerifyOutVirustotal"
+	],
+	"defaultUsedOutputPluginIDs":[
+		"VerifyOutputLocal",
+		"VerifyOutVirustotal"
+	]
+}

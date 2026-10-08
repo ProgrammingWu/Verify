@@ -1,0 +1,6 @@
+{
+  "webFetchPermissions" : {
+    "allow" : [ "*.example.com" ],
+    "deny" : [ "*.example.com" ]
+  }
+}

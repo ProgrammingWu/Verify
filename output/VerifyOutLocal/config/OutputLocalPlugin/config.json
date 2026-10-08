@@ -1,0 +1,6 @@
+{
+  "webFetchPermissions" : {
+    "allow" : [ "允许的域名" ],
+    "deny" : [ "禁止的域名" ]
+  }
+}
